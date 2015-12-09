@@ -1,0 +1,25 @@
+
+ember install ember-cli-mirage
+
+creates app/mirage folder
+
+
+ember generate adapter application
+
+eidt app/application/adapter.js
+
+create folder app/mirage/fixtures
+create file lists.js  & items.js
+
+
+ember g route application
+
+do not overwrite
+
+app/applicatoin/route.hs
+
+edit app/applicatoins/template.hbs
+
+ember g model application
+
+app/aplication/model
